@@ -119,6 +119,7 @@ section .blog1{
 .blog1 p{}
 footer{
     background: #F0F0F0;
+    padding:25px 0;
 }
 .footer_menu{
     width: 30%;
